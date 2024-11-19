@@ -6,3 +6,5 @@ Ao acessar, basta clicar em Create a Program.
 
 Posteriormente no campo esquerdo basta colocar o código, no campo inferior direito basta escrever iniciar e clicar em run, assim o código sera compilado e executado.
 ![image](https://github.com/user-attachments/assets/992781e0-3527-4a0b-87bb-314204535eda)
+
+Alunos: Amandio e Nicolas
